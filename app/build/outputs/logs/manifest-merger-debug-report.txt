@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\7111f68072fdc6501c171946cb826f78\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7b998650e596f327c0cf9c4bba88e7cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\121aa48699967b1f74b2ded4c1b917fc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\de02628ad3ba04a2b1b1a7107258c2e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\3e9d1bfad36a167547b6fda4e3f85f7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\7b99793cee7447fffb72636a52652cda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\e7a13d055041ce1a8220ff5ff59ad9cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\8df97bb6bbdf5b8c3c136e44e2244984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\54497ecd6822708116ffcf5b0a811fc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\0b2d7e09c88d6c52931ee2a777aaed8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c69c93fd997940eb3cde16127e66b546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\0c83892f1efa93852b0517cb37479e07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b5dc09ca6e388a4551159f2490b0a99f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\54b895330d069b7058262518bfb6599f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\3cf560b4e13cce6d8cae76e3c9407033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\93dff6d5999cb9fc4f2be8e821670299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\f5794e75e0354f820a29e55ad9a6b1f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\424f350aa70a009056dd0076e6306a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\729a6b60535536155a24144d536537c8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\54e152606ac9510de375e7df0666612a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\3c26e3d0961cdfd410f4af4bd6f1f0e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f62ff345be712dcab7a9987aea2e9374\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\f9b5d66fda70ebadd86590b2fcef085d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f62003f75219646bd5472bc87b1f343f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4cc22ecbbc0920e49cbcf45c4a7ee582\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45a3e0a475925c43d086adbc07dcc1e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\b7954a6432a121c07df2ca767c25ca11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4390e599e05e0b34cc4d8fe3eb4353af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d67758986ee559771e9fa48b152d4d5a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\7111f68072fdc6501c171946cb826f78\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\7111f68072fdc6501c171946cb826f78\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\121aa48699967b1f74b2ded4c1b917fc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\121aa48699967b1f74b2ded4c1b917fc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\729a6b60535536155a24144d536537c8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\729a6b60535536155a24144d536537c8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.bursel.databaseapplication.MainActivity
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.bursel.databaseapplication.SearchActivity
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:21:19-49
+provider#com.example.bursel.databaseapplication.DairysProvider
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:23:9-27:39
+	android:enabled
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:26:13-35
+	android:authorities
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:25:13-67
+	android:exported
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:24:13-43
+activity#com.example.bursel.databaseapplication.EditActicvity
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:31:13-66
+	android:theme
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:30:13-42
+activity#com.example.bursel.databaseapplication.EditDairyActivity
+ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml:33:19-52
+uses-sdk
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\7111f68072fdc6501c171946cb826f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\7111f68072fdc6501c171946cb826f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7b998650e596f327c0cf9c4bba88e7cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7b998650e596f327c0cf9c4bba88e7cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\121aa48699967b1f74b2ded4c1b917fc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\121aa48699967b1f74b2ded4c1b917fc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\de02628ad3ba04a2b1b1a7107258c2e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\de02628ad3ba04a2b1b1a7107258c2e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\3e9d1bfad36a167547b6fda4e3f85f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\3e9d1bfad36a167547b6fda4e3f85f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\7b99793cee7447fffb72636a52652cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\7b99793cee7447fffb72636a52652cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\e7a13d055041ce1a8220ff5ff59ad9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\e7a13d055041ce1a8220ff5ff59ad9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\8df97bb6bbdf5b8c3c136e44e2244984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\8df97bb6bbdf5b8c3c136e44e2244984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\54497ecd6822708116ffcf5b0a811fc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\54497ecd6822708116ffcf5b0a811fc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\0b2d7e09c88d6c52931ee2a777aaed8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\0b2d7e09c88d6c52931ee2a777aaed8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c69c93fd997940eb3cde16127e66b546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c69c93fd997940eb3cde16127e66b546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\0c83892f1efa93852b0517cb37479e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\0c83892f1efa93852b0517cb37479e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b5dc09ca6e388a4551159f2490b0a99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b5dc09ca6e388a4551159f2490b0a99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\54b895330d069b7058262518bfb6599f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\54b895330d069b7058262518bfb6599f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\3cf560b4e13cce6d8cae76e3c9407033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\3cf560b4e13cce6d8cae76e3c9407033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\93dff6d5999cb9fc4f2be8e821670299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\93dff6d5999cb9fc4f2be8e821670299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\f5794e75e0354f820a29e55ad9a6b1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\f5794e75e0354f820a29e55ad9a6b1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\424f350aa70a009056dd0076e6306a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\424f350aa70a009056dd0076e6306a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\ef58fd42b2534ae605d4b866ae0f9154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\729a6b60535536155a24144d536537c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\729a6b60535536155a24144d536537c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\54e152606ac9510de375e7df0666612a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\54e152606ac9510de375e7df0666612a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\3c26e3d0961cdfd410f4af4bd6f1f0e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\3c26e3d0961cdfd410f4af4bd6f1f0e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f62ff345be712dcab7a9987aea2e9374\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f62ff345be712dcab7a9987aea2e9374\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\f9b5d66fda70ebadd86590b2fcef085d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\f9b5d66fda70ebadd86590b2fcef085d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f62003f75219646bd5472bc87b1f343f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f62003f75219646bd5472bc87b1f343f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4cc22ecbbc0920e49cbcf45c4a7ee582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4cc22ecbbc0920e49cbcf45c4a7ee582\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45a3e0a475925c43d086adbc07dcc1e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45a3e0a475925c43d086adbc07dcc1e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\b7954a6432a121c07df2ca767c25ca11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\b7954a6432a121c07df2ca767c25ca11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4390e599e05e0b34cc4d8fe3eb4353af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4390e599e05e0b34cc4d8fe3eb4353af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d67758986ee559771e9fa48b152d4d5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bursel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d67758986ee559771e9fa48b152d4d5a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bursel\AndroidStudioProjects\databaseApplication\app\src\main\AndroidManifest.xml

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:Android="http://schemas.android.com/apk/res/android"
+    Android:orientation="vertical"
+    Android:layout_width="fill_parent"
+    Android:layout_height="fill_parent">
+
+    <LinearLayout Android:orientation="vertical"
+    Android:layout_width="fill_parent"
+    Android:layout_height="wrap_content">
+
+    <TextView Android:layout_width="wrap_content"
+    Android:layout_height="wrap_content"
+    Android:text="title"
+    Android:padding="2px"/>
+    <EditText Android:id="@+id/title"
+    Android:layout_width="fill_parent"
+    Android:layout_height="wrap_content"
+        Android:layout_weight="1"/>
+    </LinearLayout>
+
+    <TextView Android:layout_width="wrap_content"
+    Android:layout_height="wrap_content"
+    Android:text="body"/>
+    <EditText Android:id="@+id/body"
+    Android:layout_width="fill_parent"
+    Android:layout_height="wrap_content"
+    Android:layout_weight="1"
+    Android:scrollbars="vertical"/>
+
+    <Button Android:id="@+id/confirm"
+    Android:text="confirm"
+    Android:layout_width="wrap_content"
+    Android:layout_height="wrap_content"/>
+
+    </LinearLayout>
